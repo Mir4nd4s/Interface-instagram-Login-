@@ -6,13 +6,15 @@ Curso realizado na plataforma Digital Inovation One
 
 **visão computador**
 
-![](C:\Users\55819\Desktop\Miranda\DIO\Dev - HTML\PgInstagram\image\md\print-logInstagram.png)
+![print-logInstagram](https://user-images.githubusercontent.com/62124855/123528970-8e0abd00-d6c2-11eb-91f8-c179c58167f1.png)
+
 
 
 
 **visão celular**
 
-![](C:\Users\55819\Desktop\Miranda\DIO\Dev - HTML\PgInstagram\image\md\print-logCelInstagram.png)
+![print-logCelInstagram](https://user-images.githubusercontent.com/62124855/123529007-dcb85700-d6c2-11eb-906d-2814f43a8c4b.png)
+
 
 
 
